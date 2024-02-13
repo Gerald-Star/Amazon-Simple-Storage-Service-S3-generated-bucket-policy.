@@ -6,3 +6,5 @@ https://github.com/Gerald-Star/Amazon-Simple-Storage-Service-S3-generated-bucket
 ## Part 2. Deployment of Amazon S3 bucket services on Amazon Management Console.
 https://github.com/Gerald-Star/Amazon-Simple-Storage-Service-S3-generated-bucket-policy./assets/62772506/a969405f-8f09-454b-90d7-45c460b8d4f7
 
+## Part 3 Deploying EC2 Instance and accessing the AWS Session Manager to connect to the Bastion Host (Scripting)
+https://github.com/Gerald-Star/Amazon-Simple-Storage-Service-S3-generated-bucket-policy./assets/62772506/178e7ca4-b318-4bb1-ac5a-283a72ee6c13
